@@ -32,7 +32,6 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "proxy-polyfill": "^0.1.6",
     "immutable": "^3.7.6",
     "lodash": "^4.2.1",
     "lodash-es": "^4.2.1",

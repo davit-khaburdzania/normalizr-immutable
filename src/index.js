@@ -4,7 +4,6 @@
 import { Record, Map, List, Iterable } from 'immutable';
 
 //Shim for new Proxy instead of Proxy.create
-import Proxy from 'proxy-polyfill';
 //Should patch proxy to work properly
 // import Reflect from 'harmony-reflect';
 
